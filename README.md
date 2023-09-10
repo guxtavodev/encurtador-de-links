@@ -1,7 +1,3 @@
-Entendido! Se você está planejando criar apenas a funcionalidade básica de encurtamento de links sem autenticação e planeja aprimorar o projeto na parte 2, você pode ajustar o README de acordo. Aqui está uma versão simplificada do README:
-
----
-
 # Encurtador de Links com Flask
 
 Este é um projeto prático onde vamos criar um encurtador de links simples usando Flask. O objetivo é permitir que os usuários insiram URLs longos e recebam URLs curtos gerados automaticamente.
